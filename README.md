@@ -242,9 +242,7 @@ bool? isVariableBitRate;
 ```
 
 ## Copyright and license
-This library is developed and maintained by Nicolò Rebaioli  
-:globe_with_meridians: [My website](https://rebaioli.altervista.org)  
-:mailbox: [niko.reba@gmail.com](mailto:niko.reba@gmail.com)
+This library is developed by cinecraft studio
 
 Released under [MIT license](LICENSE)
 
