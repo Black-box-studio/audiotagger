@@ -246,4 +246,4 @@ This library is developed by cinecraft studio
 
 Released under [MIT license](LICENSE)
 
-Copyright 2021 Nicolò Rebaioli
+Copyright 2021 cinecraft studio
